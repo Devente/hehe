@@ -1,0 +1,11 @@
+wget https://git.io/vpnsetup-centos -O vpnsetup.sh && sudo sh vpnsetup.sh
+阿里云用户安全组开UDP500端口和4500端口
+vim /etc/ipsec.secrets
+
+vim /etc/xl2tpd/xl2tpd.conf
+
+vim /etc/ppp/chap-secrets
+
+vim /etc/sysconfig/iptables
+
+重启
